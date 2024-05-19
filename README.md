@@ -1,5 +1,7 @@
 # AntiFa (Anti FakeNews)
 
+> Estamos em fase de elaboração do [MVP](https://github.com/marcieltorres/antifakenews/issues/2)
+
 ## Visão Geral
 AntiFa é um projeto dedicado a analisar e quantificar a porcentagem de notícias falsas (fake news) disseminadas por políticos e personalidades brasileiras em suas redes sociais. Nosso objetivo é promover a transparência e a responsabilidade nas mídias sociais, ajudando o público a discernir entre fatos e desinformação. A ideia desse projeto tem como base esse outro projeto aqui: https://queridodiario.ok.org.br/, onde é possível explorar diários oficiais dos municípios. Nossa ideia é que seja possível explorar todas as notícias falsas e verdadeiras que os políticos e algumas personalidades postam para que o público consiga ter ferramentas para cobrar de seus representantes.
 
