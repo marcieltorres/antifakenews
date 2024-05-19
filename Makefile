@@ -4,8 +4,8 @@ ifneq (,$(wildcard ./.env))
     export
 endif
 
-APP_NAME="python-boilerplate-project"
-IMAGE_NAME="python-boilerplate-project"
+APP_NAME="antifakenews"
+IMAGE_NAME="antifakenews"
 VERSION="latest"
 MAIN_ENTRYPOINT="src/main.py"
 
